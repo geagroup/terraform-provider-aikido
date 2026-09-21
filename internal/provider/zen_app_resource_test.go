@@ -3,7 +3,7 @@ package provider
 import (
 	"testing"
 
-	"github.com/X-Guardian/terraform-provider-aikido/internal/client"
+	"github.com/geagroup/terraform-provider-aikido/internal/client"
 )
 
 // Every computed attribute in the schema must be assigned by mapAppToModel.

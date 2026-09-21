@@ -15,7 +15,7 @@ The Aikido provider allows you to manage resources in [Aikido Security](https://
 terraform {
   required_providers {
     aikido = {
-      source = "X-Guardian/aikido"
+      source = "geagroup/aikido"
     }
   }
 }

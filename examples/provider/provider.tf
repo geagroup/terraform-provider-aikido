@@ -1,7 +1,7 @@
 terraform {
   required_providers {
     aikido = {
-      source = "X-Guardian/aikido"
+      source = "geagroup/aikido"
     }
   }
 }
