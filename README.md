@@ -92,7 +92,7 @@ Credentials can also be provided via environment variables:
 terraform {
   required_providers {
     aikido = {
-      source = "X-Guardian/aikido"
+      source = "geagroup/aikido"
     }
   }
 }
@@ -173,12 +173,12 @@ make testacc
 
 **Note:** Acceptance tests create real resources in your Aikido workspace.
 
-[release-badge]: https://img.shields.io/github/v/release/X-Guardian/terraform-provider-aikido
-[releases]: https://github.com/X-Guardian/terraform-provider-aikido/releases
+[release-badge]: https://img.shields.io/github/v/release/geagroup/terraform-provider-aikido
+[releases]: https://github.com/geagroup/terraform-provider-aikido/releases
 [downloads-badge]: https://img.shields.io/terraform/provider/dt/1749479?logo=terraform&label=registry%20downloads
-[registry]: https://registry.terraform.io/providers/X-Guardian/aikido/latest
-[tests-badge]: https://github.com/X-Guardian/terraform-provider-aikido/actions/workflows/test.yml/badge.svg
-[tests]: https://github.com/X-Guardian/terraform-provider-aikido/actions/workflows/test.yml
+[registry]: https://registry.terraform.io/providers/geagroup/aikido/latest
+[tests-badge]: https://github.com/geagroup/terraform-provider-aikido/actions/workflows/test.yml/badge.svg
+[tests]: https://github.com/geagroup/terraform-provider-aikido/actions/workflows/test.yml
 [license-badge]: https://img.shields.io/badge/License-MPL_2.0-yellow.svg
 [license]: https://opensource.org/licenses/MPL-2.0
 [aikido]: https://www.aikido.dev/
