@@ -1,4 +1,4 @@
-module github.com/X-Guardian/terraform-provider-aikido
+module github.com/geagroup/terraform-provider-aikido
 
 go 1.26.2
 

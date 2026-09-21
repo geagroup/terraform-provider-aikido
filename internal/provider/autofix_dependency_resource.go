@@ -16,7 +16,7 @@ import (
 	"github.com/hashicorp/terraform-plugin-framework/types"
 	"github.com/hashicorp/terraform-plugin-log/tflog"
 
-	"github.com/X-Guardian/terraform-provider-aikido/internal/client"
+	"github.com/geagroup/terraform-provider-aikido/internal/client"
 )
 
 var _ resource.Resource = &AutofixDependencyResource{}
