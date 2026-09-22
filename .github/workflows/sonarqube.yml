@@ -23,5 +23,5 @@ jobs:
           SONAR_HOST_URL: https://infrastructure.projectonline.digital.gea.com/
         with:
           args: >
-            -Dsonar.projectKey=terraform-provider-confluence
+            -Dsonar.projectKey=terraform-provider-aikido
             -Dsonar.sources=.
